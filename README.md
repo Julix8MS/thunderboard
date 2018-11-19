@@ -1,7 +1,7 @@
 # Thunderboard
 An improved Arduino board set:
 
-- Thunderboard zero
++ Thunderboard zero
   48KB Flash
   6KB RAM
   2KB EEPROM
